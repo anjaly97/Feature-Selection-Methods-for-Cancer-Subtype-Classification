@@ -1,6 +1,6 @@
 # Feature-Selection-Methods-for-Cancer-Subtype-Classification
  Comparison study of different Feature selection methods for Cancer Subtype classification
-** ##Introduction**
+ ## Introduction
  Differential diagnosis of Cancer sub-types and thus their treatments are one of the most
 challenging problems in clinical Medicine.. To choose the right treatment plan, a proper
 diagnosis is to be made.This project is intended to accurately classify a patient’s cancer type
